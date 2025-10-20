@@ -29,7 +29,7 @@
 🎯 Next Goals
 - Learn TensorFlow and TensorRT
 - Optimize real-time vision for edge devices
-- Develop Vision apps for mobile and desktop
+- Master Computer Vision algorithms
 - Integrate vision, AI, and embedded systems for autonomous cameras
 
   
