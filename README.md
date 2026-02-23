@@ -1,6 +1,6 @@
 ## 🧑‍💻 Hi, I'm Anh Duong Tran!
 🎓 Student of Media Technology at University of Applied Sciences Cologne focusing on
-📷 Computer Vision, Deep Learning, Image Processing, Camera Technologie, and Display Technologie.
+📷 Computer Vision, Deep Learning, Image Processing, Camera Technologie and Video Studio Technologie.
 
 ## 🚀 Current Focus
 - Deep Learning Frameworks: PyTorch, TensorFlow
