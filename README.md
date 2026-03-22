@@ -24,7 +24,7 @@
 | Project | Description | Tech |
 |---------|------------|------|
 | [stereo-autofocus-hailo8-realsense](https://github.com/adt97vn/stereoscopic-autofocus-system-hailo8-realsense) | Real-time autofocus system using stereo depth and AI Object detection | Hailo8, RealSense D455, Python, OpenCV |
-| [python-kivy-vocabulary-app](https://github.com/adt97vn/python-kivy-vocabulary-app) | Vocabulary learning app with AI speech and dashboard | Python, Kivy |
+| [vocabulary-app](https://github.com/blendezu/vocabulary-app) | Vocabulary learning app with AI speech and dashboard | C++, Qt |
 | [raw-fotoeditor-cpp-qt-halide](https://github.com/adt97vn/photo-manufactura) | High-performance fotoeditor, raw support, professional workflow | C++, Qt, Halide, OpenMP |
 
 🎯 Next Goals
