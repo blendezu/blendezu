@@ -24,6 +24,6 @@
 
 | Project | Description | Tech |
 |---------|------------|------|
-| [Stereoscopic Autofocus](https://github.com/adt97vn/stereoscopic-autofocus-system-hailo8-realsense) | Real-time autofocus system using stereo depth and AI Object detection | Hailo8, RealSense D455, Python, OpenCV |
+| [Stereoscopic Autofocus](https://github.com/adt97vn/stereoscopic-autofocus-system-hailo8-realsense) | Real-time autofocus system using stereo depth and AI Object detection | Hailo 8, Intel RealSense D455, Python, OpenCV |
 | [Raw Photo Editting App](https://github.com/adt97vn/photo-manufactura) | High-performance fotoeditor, raw support, professional workflow | C++, Qt, Halide, OpenMP |
-| [Deep Learning]([https://github.com/blendezu/vocabulary-app](https://github.com/blendezu/deep_learning_4_computer_vision)) | Deep Learning for Computer Vision | Python, PyTorch |
+| [Deep Learning](https://github.com/blendezu/deep_learning_4_computer_vision) | Deep Learning for Computer Vision | Python, PyTorch |
