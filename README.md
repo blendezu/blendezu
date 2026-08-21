@@ -6,9 +6,11 @@
 - Deep Learning Frameworks: PyTorch
 - Deep Learning for Computer Vision
 - Object detection & tracking
-- Camera Technologie & Image Processing
+- Segmentation models
 - Embedded AI Vision
 - Advanced C++ and Python
+
+-> To become a Computer Vision Engineer or Embedded Vision Engineer
 
 ## 🧠 Technical Skills
 
