@@ -1,13 +1,14 @@
 ## 🧑‍💻 Hi, I'm Anh Duong Tran!
 🎓 Student of Media Technology at University of Applied Sciences Cologne focusing on
-📷 Computer Vision, Deep Learning, Image Processing, Camera Technologie and Video Studio Technologie.
+📷 Computer Vision, Deep Learning, Image Processing and Camera Technologie.
 
 ## 🚀 Current Focus
-- Deep Learning Frameworks: PyTorch, TensorFlow
-- AI Object detection & tracking
+- Deep Learning Frameworks: PyTorch
+- Deep Learning for Computer Vision
+- Object detection & tracking
 - Camera Technologie & Image Processing
 - Embedded AI Vision
-- HailoRT
+- Advanced C++ and Python
 
 ## 🧠 Technical Skills
 
@@ -23,28 +24,6 @@
 
 | Project | Description | Tech |
 |---------|------------|------|
-| [stereo-autofocus-hailo8-realsense](https://github.com/adt97vn/stereoscopic-autofocus-system-hailo8-realsense) | Real-time autofocus system using stereo depth and AI Object detection | Hailo8, RealSense D455, Python, OpenCV |
-| [vocabulary-app](https://github.com/blendezu/vocabulary-app) | Vocabulary learning app with AI speech and dashboard | C++, Qt |
-| [raw-fotoeditor-cpp-qt-halide](https://github.com/adt97vn/photo-manufactura) | High-performance fotoeditor, raw support, professional workflow | C++, Qt, Halide, OpenMP |
-
-🎯 Next Goals
-- Learn TensorFlow and TensorRT
-- Optimize real-time vision for edge devices
-- Master Computer Vision algorithms
-- Integrate vision, AI, and embedded systems for autonomous cameras
-
-  
-<!--
-**ad-tran/ad-tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| [Stereoscopic Autofocus](https://github.com/adt97vn/stereoscopic-autofocus-system-hailo8-realsense) | Real-time autofocus system using stereo depth and AI Object detection | Hailo8, RealSense D455, Python, OpenCV |
+| [Raw Photo Editting App](https://github.com/adt97vn/photo-manufactura) | High-performance fotoeditor, raw support, professional workflow | C++, Qt, Halide, OpenMP |
+| [Deep Learning]([https://github.com/blendezu/vocabulary-app](https://github.com/blendezu/deep_learning_4_computer_vision)) | Deep Learning for Computer Vision | Python, PyTorch |
